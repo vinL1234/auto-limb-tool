@@ -35,4 +35,4 @@ Maya's Python Script Editor.
 
 The original single-class implementation has been separated into mixins without
 changing the rig-building method bodies. The legacy class name
-`VincentLimbBuilder` remains available as an alias for compatibility.
+`LimbBuilder` remains available as an alias for compatibility.
