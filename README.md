@@ -30,9 +30,3 @@ Maya's Python Script Editor.
 
 - Autodesk Maya
 - Maya's bundled Python environment (`maya.cmds`)
-
-## Notes
-
-The original single-class implementation has been separated into mixins without
-changing the rig-building method bodies. The legacy class name
-`LimbBuilder` remains available as an alias for compatibility.
